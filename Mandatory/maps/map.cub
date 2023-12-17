@@ -1,0 +1,14 @@
+R     1740 1120
+F       138, 138, 138
+C       56, 56, 56
+NO         ./textures/greystone.XPM
+SO        ./textures/redbrick.XPM
+WE       ./textures/colorstone.XPM
+EA        ./textures/eagle.XPM
+111111111111
+100000000011
+100000000011
+100001110011
+100000000001
+1101011100N1
+111111111111
