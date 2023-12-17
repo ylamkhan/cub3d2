@@ -13,7 +13,7 @@
 #define screen_width 720.0
 #define screen_height 720.0
 
-//  extern int worldMap[map_width][map_height]={
+//  /extern int worldMap[map_width][map_height]={
 //     {1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1},
 //     {1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1},
 //     {1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1},
