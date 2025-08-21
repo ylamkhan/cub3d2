@@ -40,6 +40,6 @@ This project is about **raycasting**: turning a 2D map into a 3D first-person pe
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/cub3d.git
+git clone https://github.com/your-username/cub3d.git](https://github.com/ylamkhan/cub3d2.git
 cd cub3d
 make
