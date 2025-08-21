@@ -1,6 +1,6 @@
 # 🕹️ cub3d
 
-A simple 3D game inspired by *Wolfenstein 3D*, created as part of the **42 School curriculum**.  
+A simple 3D game inspired by *Wolfenstein 3D*, created as part of the **1337 School curriculum**.  
 This project is about **raycasting**: turning a 2D map into a 3D first-person perspective view.  
 
 ---
