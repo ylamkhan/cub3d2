@@ -44,4 +44,7 @@ git clone https://github.com/ylamkhan/cub3d2.git
 cd cub3d
 make`
 
+## Authors
+
+- **Youssef Lmkhantar** - *Full-stack Developer* - [MyGithub](https://github.com/ylamkhan)
 
