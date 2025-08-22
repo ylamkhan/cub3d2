@@ -30,7 +30,7 @@ This project is about **raycasting**: turning a 2D map into a 3D first-person pe
 ## 🛠️ Requirements
 
 - **C language** (C99 standard)  
-- **MinilibX** (graphics library provided by 42)  
+- **MinilibX** (graphics library provided by 1337)  
 - **Makefile** with rules: `all`, `clean`, `fclean`, `re`  
 
 ---
@@ -39,7 +39,9 @@ This project is about **raycasting**: turning a 2D map into a 3D first-person pe
 
 Clone the repository:
 
-```bash
+`bash
 git clone https://github.com/ylamkhan/cub3d2.git
 cd cub3d
-make
+make`
+
+
